@@ -1,0 +1,14 @@
+{
+  "name": "ElfieCoin",
+  "symbol": "ELF",
+  "description": "The festive cryptocurrency bringing holiday cheer.",
+  "image": "https://github.com/Digoska/elfie/blob/main/logo.png?raw=true",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreibbzvaau6sgqjecwqk2dwy277yeteki7wcvjphvmnxmcr7vrcpqvu",
+        "type": "image/png"
+      }
+    ]
+  }
+}
